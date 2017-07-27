@@ -4,7 +4,7 @@ class ClassModel {
   }
 
   functionModel() {
-    return `Function return for '${this.name}' class`;
+    return `Function return for ${this.name} class`;
   }
 }
 
