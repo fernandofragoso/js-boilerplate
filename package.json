@@ -21,7 +21,8 @@
   "homepage": "https://github.com/fernandofragoso/js-boilerplate#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
-    "babel-preset-env": "^1.6.0"
+    "babel-preset-env": "^1.6.0",
+    "browserify": "^14.4.0"
   },
   "presets": [
     "ENV"
