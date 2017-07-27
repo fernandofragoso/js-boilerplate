@@ -1,29 +1,15 @@
 {
   "name": "js-boilerplate",
   "version": "1.0.0",
-  "description": "Javascript boilerplate",
+  "description": "Javascript Stack Boilerplate",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fernandofragoso/js-boilerplate.git"
-  },
-  "keywords": [
-    "javascript"
-  ],
+  "repository": "https://github.com/fernandofragoso/js-boilerplate.git",
   "author": "Fernando Fragoso",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fernandofragoso/js-boilerplate/issues"
+  "scripts": {
+    "start": "node ."
   },
-  "homepage": "https://github.com/fernandofragoso/js-boilerplate#readme",
-  "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-preset-env": "^1.6.0"
-  },
-  "presets": [
-    "ENV"
-  ]
+  "dependencies": {
+    "color": "^2.0.0"
+  }
 }
