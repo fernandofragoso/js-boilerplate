@@ -5,3 +5,5 @@ Using:
 - Node
 - Yarn
 - Babel
+- Jest
+- Husky
