@@ -1,4 +1,4 @@
-import ClassModel from './class-model'
+import ClassModel from '../src/class-model'
 
 test('ClassModel.functionModel', () => {
   const testObject = new ClassModel('Test1');
